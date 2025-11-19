@@ -1,0 +1,14 @@
+/Users/vbezai/RiderProjects/SpaceMission/SpaceMission/obj/Debug/net9.0/SpaceMission.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vbezai/RiderProjects/SpaceMission/SpaceMission/obj/Debug/net9.0/SpaceMission.AssemblyInfoInputs.cache
+/Users/vbezai/RiderProjects/SpaceMission/SpaceMission/obj/Debug/net9.0/SpaceMission.AssemblyInfo.cs
+/Users/vbezai/RiderProjects/SpaceMission/SpaceMission/obj/Debug/net9.0/SpaceMission.csproj.CoreCompileInputs.cache
+/Users/vbezai/RiderProjects/SpaceMission/SpaceMission/bin/Debug/net9.0/SpaceMission
+/Users/vbezai/RiderProjects/SpaceMission/SpaceMission/bin/Debug/net9.0/SpaceMission.deps.json
+/Users/vbezai/RiderProjects/SpaceMission/SpaceMission/bin/Debug/net9.0/SpaceMission.runtimeconfig.json
+/Users/vbezai/RiderProjects/SpaceMission/SpaceMission/bin/Debug/net9.0/SpaceMission.dll
+/Users/vbezai/RiderProjects/SpaceMission/SpaceMission/bin/Debug/net9.0/SpaceMission.pdb
+/Users/vbezai/RiderProjects/SpaceMission/SpaceMission/obj/Debug/net9.0/SpaceMission.dll
+/Users/vbezai/RiderProjects/SpaceMission/SpaceMission/obj/Debug/net9.0/refint/SpaceMission.dll
+/Users/vbezai/RiderProjects/SpaceMission/SpaceMission/obj/Debug/net9.0/SpaceMission.pdb
+/Users/vbezai/RiderProjects/SpaceMission/SpaceMission/obj/Debug/net9.0/SpaceMission.genruntimeconfig.cache
+/Users/vbezai/RiderProjects/SpaceMission/SpaceMission/obj/Debug/net9.0/ref/SpaceMission.dll

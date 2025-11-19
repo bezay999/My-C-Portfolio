@@ -1,0 +1,14 @@
+/Users/vbezai/RiderProjects/Quiz/Quiz/bin/Debug/net9.0/Quiz
+/Users/vbezai/RiderProjects/Quiz/Quiz/bin/Debug/net9.0/Quiz.deps.json
+/Users/vbezai/RiderProjects/Quiz/Quiz/bin/Debug/net9.0/Quiz.runtimeconfig.json
+/Users/vbezai/RiderProjects/Quiz/Quiz/bin/Debug/net9.0/Quiz.dll
+/Users/vbezai/RiderProjects/Quiz/Quiz/bin/Debug/net9.0/Quiz.pdb
+/Users/vbezai/RiderProjects/Quiz/Quiz/obj/Debug/net9.0/Quiz.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vbezai/RiderProjects/Quiz/Quiz/obj/Debug/net9.0/Quiz.AssemblyInfoInputs.cache
+/Users/vbezai/RiderProjects/Quiz/Quiz/obj/Debug/net9.0/Quiz.AssemblyInfo.cs
+/Users/vbezai/RiderProjects/Quiz/Quiz/obj/Debug/net9.0/Quiz.csproj.CoreCompileInputs.cache
+/Users/vbezai/RiderProjects/Quiz/Quiz/obj/Debug/net9.0/Quiz.dll
+/Users/vbezai/RiderProjects/Quiz/Quiz/obj/Debug/net9.0/refint/Quiz.dll
+/Users/vbezai/RiderProjects/Quiz/Quiz/obj/Debug/net9.0/Quiz.pdb
+/Users/vbezai/RiderProjects/Quiz/Quiz/obj/Debug/net9.0/Quiz.genruntimeconfig.cache
+/Users/vbezai/RiderProjects/Quiz/Quiz/obj/Debug/net9.0/ref/Quiz.dll
