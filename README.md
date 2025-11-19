@@ -27,13 +27,9 @@ This repository showcases my practice projects in C#, demonstrating my understan
 ---
 
 ## How to Run
-1. Clone this repository:
-```bash
-git clone https://github.com/bezay999/My-C-Portfolio.git
-	2.	Open the project folder in Visual Studio or VS Code.
-	3.	Build and run each project from its folder.
-
-⸻
+1. Clone this repository
+2.	Open the project folder in Visual Studio or VS Code.
+3.	Build and run each project from its folder.
 
 Skills Demonstrated
 	•	C# fundamentals (variables, loops, conditionals)
