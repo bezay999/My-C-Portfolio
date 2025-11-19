@@ -30,3 +30,14 @@ This repository showcases my practice projects in C#, demonstrating my understan
 1. Clone this repository:
 ```bash
 git clone https://github.com/bezay999/My-C-Portfolio.git
+	2.	Open the project folder in Visual Studio or VS Code.
+	3.	Build and run each project from its folder.
+
+⸻
+
+Skills Demonstrated
+	•	C# fundamentals (variables, loops, conditionals)
+	•	Object-Oriented Programming (classes, methods, objects)
+	•	Console Input/Output
+	•	Basic algorithms and logic
+	•	Project structure and organization
