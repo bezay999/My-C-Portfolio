@@ -1,0 +1,14 @@
+/Users/vbezai/RiderProjects/DatingProfile/DatingProfile/bin/Debug/net9.0/DatingProfile
+/Users/vbezai/RiderProjects/DatingProfile/DatingProfile/bin/Debug/net9.0/DatingProfile.deps.json
+/Users/vbezai/RiderProjects/DatingProfile/DatingProfile/bin/Debug/net9.0/DatingProfile.runtimeconfig.json
+/Users/vbezai/RiderProjects/DatingProfile/DatingProfile/bin/Debug/net9.0/DatingProfile.dll
+/Users/vbezai/RiderProjects/DatingProfile/DatingProfile/bin/Debug/net9.0/DatingProfile.pdb
+/Users/vbezai/RiderProjects/DatingProfile/DatingProfile/obj/Debug/net9.0/DatingProfile.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vbezai/RiderProjects/DatingProfile/DatingProfile/obj/Debug/net9.0/DatingProfile.AssemblyInfoInputs.cache
+/Users/vbezai/RiderProjects/DatingProfile/DatingProfile/obj/Debug/net9.0/DatingProfile.AssemblyInfo.cs
+/Users/vbezai/RiderProjects/DatingProfile/DatingProfile/obj/Debug/net9.0/DatingProfile.csproj.CoreCompileInputs.cache
+/Users/vbezai/RiderProjects/DatingProfile/DatingProfile/obj/Debug/net9.0/DatingProfile.dll
+/Users/vbezai/RiderProjects/DatingProfile/DatingProfile/obj/Debug/net9.0/refint/DatingProfile.dll
+/Users/vbezai/RiderProjects/DatingProfile/DatingProfile/obj/Debug/net9.0/DatingProfile.pdb
+/Users/vbezai/RiderProjects/DatingProfile/DatingProfile/obj/Debug/net9.0/DatingProfile.genruntimeconfig.cache
+/Users/vbezai/RiderProjects/DatingProfile/DatingProfile/obj/Debug/net9.0/ref/DatingProfile.dll

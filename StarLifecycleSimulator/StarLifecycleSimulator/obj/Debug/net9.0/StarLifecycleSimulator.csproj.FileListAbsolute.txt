@@ -1,0 +1,14 @@
+/Users/vbezai/RiderProjects/StarLifecycleSimulator/StarLifecycleSimulator/bin/Debug/net9.0/StarLifecycleSimulator
+/Users/vbezai/RiderProjects/StarLifecycleSimulator/StarLifecycleSimulator/bin/Debug/net9.0/StarLifecycleSimulator.deps.json
+/Users/vbezai/RiderProjects/StarLifecycleSimulator/StarLifecycleSimulator/bin/Debug/net9.0/StarLifecycleSimulator.runtimeconfig.json
+/Users/vbezai/RiderProjects/StarLifecycleSimulator/StarLifecycleSimulator/bin/Debug/net9.0/StarLifecycleSimulator.dll
+/Users/vbezai/RiderProjects/StarLifecycleSimulator/StarLifecycleSimulator/bin/Debug/net9.0/StarLifecycleSimulator.pdb
+/Users/vbezai/RiderProjects/StarLifecycleSimulator/StarLifecycleSimulator/obj/Debug/net9.0/StarLifecycleSimulator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vbezai/RiderProjects/StarLifecycleSimulator/StarLifecycleSimulator/obj/Debug/net9.0/StarLifecycleSimulator.AssemblyInfoInputs.cache
+/Users/vbezai/RiderProjects/StarLifecycleSimulator/StarLifecycleSimulator/obj/Debug/net9.0/StarLifecycleSimulator.AssemblyInfo.cs
+/Users/vbezai/RiderProjects/StarLifecycleSimulator/StarLifecycleSimulator/obj/Debug/net9.0/StarLifecycleSimulator.csproj.CoreCompileInputs.cache
+/Users/vbezai/RiderProjects/StarLifecycleSimulator/StarLifecycleSimulator/obj/Debug/net9.0/StarLifecycleSimulator.dll
+/Users/vbezai/RiderProjects/StarLifecycleSimulator/StarLifecycleSimulator/obj/Debug/net9.0/refint/StarLifecycleSimulator.dll
+/Users/vbezai/RiderProjects/StarLifecycleSimulator/StarLifecycleSimulator/obj/Debug/net9.0/StarLifecycleSimulator.pdb
+/Users/vbezai/RiderProjects/StarLifecycleSimulator/StarLifecycleSimulator/obj/Debug/net9.0/StarLifecycleSimulator.genruntimeconfig.cache
+/Users/vbezai/RiderProjects/StarLifecycleSimulator/StarLifecycleSimulator/obj/Debug/net9.0/ref/StarLifecycleSimulator.dll
