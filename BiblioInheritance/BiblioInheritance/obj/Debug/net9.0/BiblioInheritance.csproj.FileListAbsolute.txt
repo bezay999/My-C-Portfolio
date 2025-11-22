@@ -1,0 +1,14 @@
+/Users/vbezai/RiderProjects/BiblioInheritance/BiblioInheritance/bin/Debug/net9.0/BiblioInheritance
+/Users/vbezai/RiderProjects/BiblioInheritance/BiblioInheritance/bin/Debug/net9.0/BiblioInheritance.deps.json
+/Users/vbezai/RiderProjects/BiblioInheritance/BiblioInheritance/bin/Debug/net9.0/BiblioInheritance.runtimeconfig.json
+/Users/vbezai/RiderProjects/BiblioInheritance/BiblioInheritance/bin/Debug/net9.0/BiblioInheritance.dll
+/Users/vbezai/RiderProjects/BiblioInheritance/BiblioInheritance/bin/Debug/net9.0/BiblioInheritance.pdb
+/Users/vbezai/RiderProjects/BiblioInheritance/BiblioInheritance/obj/Debug/net9.0/BiblioInheritance.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vbezai/RiderProjects/BiblioInheritance/BiblioInheritance/obj/Debug/net9.0/BiblioInheritance.AssemblyInfoInputs.cache
+/Users/vbezai/RiderProjects/BiblioInheritance/BiblioInheritance/obj/Debug/net9.0/BiblioInheritance.AssemblyInfo.cs
+/Users/vbezai/RiderProjects/BiblioInheritance/BiblioInheritance/obj/Debug/net9.0/BiblioInheritance.csproj.CoreCompileInputs.cache
+/Users/vbezai/RiderProjects/BiblioInheritance/BiblioInheritance/obj/Debug/net9.0/BiblioInheritance.dll
+/Users/vbezai/RiderProjects/BiblioInheritance/BiblioInheritance/obj/Debug/net9.0/refint/BiblioInheritance.dll
+/Users/vbezai/RiderProjects/BiblioInheritance/BiblioInheritance/obj/Debug/net9.0/BiblioInheritance.pdb
+/Users/vbezai/RiderProjects/BiblioInheritance/BiblioInheritance/obj/Debug/net9.0/BiblioInheritance.genruntimeconfig.cache
+/Users/vbezai/RiderProjects/BiblioInheritance/BiblioInheritance/obj/Debug/net9.0/ref/BiblioInheritance.dll
