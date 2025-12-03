@@ -1,0 +1,14 @@
+/Users/vbezai/RiderProjects/CorporatePolymorphism/CorporatePolymorphism/bin/Debug/net9.0/CorporatePolymorphism
+/Users/vbezai/RiderProjects/CorporatePolymorphism/CorporatePolymorphism/bin/Debug/net9.0/CorporatePolymorphism.deps.json
+/Users/vbezai/RiderProjects/CorporatePolymorphism/CorporatePolymorphism/bin/Debug/net9.0/CorporatePolymorphism.runtimeconfig.json
+/Users/vbezai/RiderProjects/CorporatePolymorphism/CorporatePolymorphism/bin/Debug/net9.0/CorporatePolymorphism.dll
+/Users/vbezai/RiderProjects/CorporatePolymorphism/CorporatePolymorphism/bin/Debug/net9.0/CorporatePolymorphism.pdb
+/Users/vbezai/RiderProjects/CorporatePolymorphism/CorporatePolymorphism/obj/Debug/net9.0/CorporatePolymorphism.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vbezai/RiderProjects/CorporatePolymorphism/CorporatePolymorphism/obj/Debug/net9.0/CorporatePolymorphism.AssemblyInfoInputs.cache
+/Users/vbezai/RiderProjects/CorporatePolymorphism/CorporatePolymorphism/obj/Debug/net9.0/CorporatePolymorphism.AssemblyInfo.cs
+/Users/vbezai/RiderProjects/CorporatePolymorphism/CorporatePolymorphism/obj/Debug/net9.0/CorporatePolymorphism.csproj.CoreCompileInputs.cache
+/Users/vbezai/RiderProjects/CorporatePolymorphism/CorporatePolymorphism/obj/Debug/net9.0/CorporatePolymorphism.dll
+/Users/vbezai/RiderProjects/CorporatePolymorphism/CorporatePolymorphism/obj/Debug/net9.0/refint/CorporatePolymorphism.dll
+/Users/vbezai/RiderProjects/CorporatePolymorphism/CorporatePolymorphism/obj/Debug/net9.0/CorporatePolymorphism.pdb
+/Users/vbezai/RiderProjects/CorporatePolymorphism/CorporatePolymorphism/obj/Debug/net9.0/CorporatePolymorphism.genruntimeconfig.cache
+/Users/vbezai/RiderProjects/CorporatePolymorphism/CorporatePolymorphism/obj/Debug/net9.0/ref/CorporatePolymorphism.dll

@@ -1,0 +1,14 @@
+/Users/vbezai/RiderProjects/SavingInterface/SavingInterface/bin/Debug/net9.0/SavingInterface
+/Users/vbezai/RiderProjects/SavingInterface/SavingInterface/bin/Debug/net9.0/SavingInterface.deps.json
+/Users/vbezai/RiderProjects/SavingInterface/SavingInterface/bin/Debug/net9.0/SavingInterface.runtimeconfig.json
+/Users/vbezai/RiderProjects/SavingInterface/SavingInterface/bin/Debug/net9.0/SavingInterface.dll
+/Users/vbezai/RiderProjects/SavingInterface/SavingInterface/bin/Debug/net9.0/SavingInterface.pdb
+/Users/vbezai/RiderProjects/SavingInterface/SavingInterface/obj/Debug/net9.0/SavingInterface.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vbezai/RiderProjects/SavingInterface/SavingInterface/obj/Debug/net9.0/SavingInterface.AssemblyInfoInputs.cache
+/Users/vbezai/RiderProjects/SavingInterface/SavingInterface/obj/Debug/net9.0/SavingInterface.AssemblyInfo.cs
+/Users/vbezai/RiderProjects/SavingInterface/SavingInterface/obj/Debug/net9.0/SavingInterface.csproj.CoreCompileInputs.cache
+/Users/vbezai/RiderProjects/SavingInterface/SavingInterface/obj/Debug/net9.0/SavingInterface.dll
+/Users/vbezai/RiderProjects/SavingInterface/SavingInterface/obj/Debug/net9.0/refint/SavingInterface.dll
+/Users/vbezai/RiderProjects/SavingInterface/SavingInterface/obj/Debug/net9.0/SavingInterface.pdb
+/Users/vbezai/RiderProjects/SavingInterface/SavingInterface/obj/Debug/net9.0/SavingInterface.genruntimeconfig.cache
+/Users/vbezai/RiderProjects/SavingInterface/SavingInterface/obj/Debug/net9.0/ref/SavingInterface.dll

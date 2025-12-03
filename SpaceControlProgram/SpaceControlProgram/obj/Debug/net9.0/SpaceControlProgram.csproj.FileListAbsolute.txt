@@ -1,0 +1,14 @@
+/Users/vbezai/RiderProjects/SpaceControlProgram/SpaceControlProgram/obj/Debug/net9.0/SpaceControlProgram.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vbezai/RiderProjects/SpaceControlProgram/SpaceControlProgram/obj/Debug/net9.0/SpaceControlProgram.AssemblyInfoInputs.cache
+/Users/vbezai/RiderProjects/SpaceControlProgram/SpaceControlProgram/obj/Debug/net9.0/SpaceControlProgram.AssemblyInfo.cs
+/Users/vbezai/RiderProjects/SpaceControlProgram/SpaceControlProgram/obj/Debug/net9.0/SpaceControlProgram.csproj.CoreCompileInputs.cache
+/Users/vbezai/RiderProjects/SpaceControlProgram/SpaceControlProgram/bin/Debug/net9.0/SpaceControlProgram
+/Users/vbezai/RiderProjects/SpaceControlProgram/SpaceControlProgram/bin/Debug/net9.0/SpaceControlProgram.deps.json
+/Users/vbezai/RiderProjects/SpaceControlProgram/SpaceControlProgram/bin/Debug/net9.0/SpaceControlProgram.runtimeconfig.json
+/Users/vbezai/RiderProjects/SpaceControlProgram/SpaceControlProgram/bin/Debug/net9.0/SpaceControlProgram.dll
+/Users/vbezai/RiderProjects/SpaceControlProgram/SpaceControlProgram/bin/Debug/net9.0/SpaceControlProgram.pdb
+/Users/vbezai/RiderProjects/SpaceControlProgram/SpaceControlProgram/obj/Debug/net9.0/SpaceControlProgram.dll
+/Users/vbezai/RiderProjects/SpaceControlProgram/SpaceControlProgram/obj/Debug/net9.0/refint/SpaceControlProgram.dll
+/Users/vbezai/RiderProjects/SpaceControlProgram/SpaceControlProgram/obj/Debug/net9.0/SpaceControlProgram.pdb
+/Users/vbezai/RiderProjects/SpaceControlProgram/SpaceControlProgram/obj/Debug/net9.0/SpaceControlProgram.genruntimeconfig.cache
+/Users/vbezai/RiderProjects/SpaceControlProgram/SpaceControlProgram/obj/Debug/net9.0/ref/SpaceControlProgram.dll

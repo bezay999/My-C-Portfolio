@@ -1,0 +1,14 @@
+/Users/vbezai/RiderProjects/EscapeRoomAdventure/EscapeRoomAdventure/bin/Debug/net9.0/EscapeRoomAdventure
+/Users/vbezai/RiderProjects/EscapeRoomAdventure/EscapeRoomAdventure/bin/Debug/net9.0/EscapeRoomAdventure.deps.json
+/Users/vbezai/RiderProjects/EscapeRoomAdventure/EscapeRoomAdventure/bin/Debug/net9.0/EscapeRoomAdventure.runtimeconfig.json
+/Users/vbezai/RiderProjects/EscapeRoomAdventure/EscapeRoomAdventure/bin/Debug/net9.0/EscapeRoomAdventure.dll
+/Users/vbezai/RiderProjects/EscapeRoomAdventure/EscapeRoomAdventure/bin/Debug/net9.0/EscapeRoomAdventure.pdb
+/Users/vbezai/RiderProjects/EscapeRoomAdventure/EscapeRoomAdventure/obj/Debug/net9.0/EscapeRoomAdventure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vbezai/RiderProjects/EscapeRoomAdventure/EscapeRoomAdventure/obj/Debug/net9.0/EscapeRoomAdventure.AssemblyInfoInputs.cache
+/Users/vbezai/RiderProjects/EscapeRoomAdventure/EscapeRoomAdventure/obj/Debug/net9.0/EscapeRoomAdventure.AssemblyInfo.cs
+/Users/vbezai/RiderProjects/EscapeRoomAdventure/EscapeRoomAdventure/obj/Debug/net9.0/EscapeRoomAdventure.csproj.CoreCompileInputs.cache
+/Users/vbezai/RiderProjects/EscapeRoomAdventure/EscapeRoomAdventure/obj/Debug/net9.0/EscapeRoomAdventure.dll
+/Users/vbezai/RiderProjects/EscapeRoomAdventure/EscapeRoomAdventure/obj/Debug/net9.0/refint/EscapeRoomAdventure.dll
+/Users/vbezai/RiderProjects/EscapeRoomAdventure/EscapeRoomAdventure/obj/Debug/net9.0/EscapeRoomAdventure.pdb
+/Users/vbezai/RiderProjects/EscapeRoomAdventure/EscapeRoomAdventure/obj/Debug/net9.0/EscapeRoomAdventure.genruntimeconfig.cache
+/Users/vbezai/RiderProjects/EscapeRoomAdventure/EscapeRoomAdventure/obj/Debug/net9.0/ref/EscapeRoomAdventure.dll
