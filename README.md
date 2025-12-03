@@ -24,6 +24,10 @@ This repository showcases my practice projects in C#, demonstrating my understan
 **Description:** A console simulation of a space mission scenario with simple user interactions.  
 **Skills demonstrated:** Classes, objects, methods, console input/output.
 
+### 4. VehicleGenerator
+**Description:** A console application that demonstrates inheritance and polymorphism through vehicle classes. The program creates different types of vehicles — Sedan, Truck, and a base Vehicle — each with their own properties and behavior. It showcases license plate generation, wheel defaults, speed handling, and method overriding such as improved SpeedUp() logic in child classes.
+**Skills demonstrated:** Object-oriented programming, class inheritance, constructors, method overriding, encapsulation, string interpolation.
+
 ---
 
 ## How to Run
