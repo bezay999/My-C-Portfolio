@@ -44,6 +44,18 @@ This repository showcases my practice projects in C#, demonstrating my understan
 **Description:** A console application that simulates elements of an escape room scenario with objects and systems. The program demonstrates **object references vs. value equality**, interface implementation, and polymorphism. It includes `FieldAgent` objects to show reference behavior, `File` objects to illustrate equality comparison, and `Server` objects implementing the `ISystems` interface to demonstrate polymorphic method calls.  
 **Skills demonstrated:** Object-oriented programming, interfaces, polymorphism, object references vs. value types, equality comparison, arrays, console input/output.
 
+### 9. SavingInterface
+**Description:** A console application demonstrating the use of interfaces for managing different types of data. The program includes a `TodoList` and a `PasswordManager` that implement a common interface, showcasing how to **add, display, and reset** data in a structured way.  
+**Skills demonstrated:** Object-oriented programming, interfaces, method implementation, data management, arrays/lists, encapsulation, console input/output.
+
+### 10. SpaceControlProgram
+**Description:** A console application simulating the control of space exploration vehicles. The program creates instances of different rover types (`MoonRover`, `MarsRover`) and a `Satellite`, demonstrating **array handling, method calls on objects, and polymorphism**. It includes a `DirectAll` method to command all rovers to provide information, explore, and collect samples.  
+**Skills demonstrated:** Object-oriented programming, class inheritance, arrays, polymorphism, method overriding, object interaction, console input/output.
+
+### 11. StarLifecycleSimulator
+**Description:** A console application that simulates the lifecycle of stars. The program creates instances of the `Star` class and demonstrates behaviors such as shining, aging, and undergoing a supernova. It showcases **method calls, class instantiation, and object state management** in a simple simulation.  
+**Skills demonstrated:** Object-oriented programming, class methods, object instantiation, state management, console input/output.
+
 ---
 
 ## How to Run
