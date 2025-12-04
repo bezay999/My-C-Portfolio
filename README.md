@@ -28,6 +28,14 @@ This repository showcases my practice projects in C#, demonstrating my understan
 **Description:** A console application that demonstrates inheritance and polymorphism through vehicle classes. The program creates different types of vehicles — Sedan, Truck, and a base Vehicle — each with their own properties and behavior. It showcases license plate generation, wheel defaults, speed handling, and method overriding such as improved SpeedUp() logic in child classes.
 **Skills demonstrated:** Object-oriented programming, class inheritance, constructors, method overriding, encapsulation, string interpolation.
 
+### 5. BiblioInheritance
+**Description:** A console application that demonstrates inheritance and polymorphism through library resource classes. The program creates different types of resources — Book, Periodical, Video, and a base Resource — each with their own properties and behavior. It showcases method overriding with `GetInfo()` and `UpdateStatus()`, as well as the use of constructors and additional class-specific properties.  
+**Skills demonstrated:** Object-oriented programming, class inheritance, constructors, method overriding, polymorphism, encapsulation, console input/output.
+
+### 6. CorporatePolymorphism
+**Description:** A console application that demonstrates polymorphism and downcasting in a corporate employee hierarchy. The program creates different types of employees — HR, Engineer, Intern, and Manager — all derived from the abstract `Employee` class. It showcases method overriding (`SubmitDailyReport()` and `Work()`), the use of the `as` operator for downcasting, type checking with `is`, and array iteration through polymorphic objects.  
+**Skills demonstrated:** Object-oriented programming, abstraction, polymorphism, method overriding, downcasting, type checking, virtual and abstract methods, arrays, console input/output.
+
 ---
 
 ## How to Run
