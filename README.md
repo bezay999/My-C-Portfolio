@@ -37,9 +37,12 @@ This repository showcases my practice projects in C#, demonstrating my understan
 **Skills demonstrated:** Object-oriented programming, abstraction, polymorphism, method overriding, downcasting, type checking, virtual and abstract methods, arrays, console input/output.
 
 ### 7. DatingProfile
-
 **Description:** A console application that simulates creating and viewing user dating profiles. The program allows storing personal information such as name, age, location, pronouns, favorite activity, and hobbies. It demonstrates how to work with classes, objects, properties, methods, and arrays, including updating object properties via methods and iterating over arrays.
 **Skills demonstrated:** Object-oriented programming, encapsulation, class constructors, methods, arrays, string manipulation, console input/output.
+
+### 8. EscapeRoomAdventure
+**Description:** A console application that simulates elements of an escape room scenario with objects and systems. The program demonstrates **object references vs. value equality**, interface implementation, and polymorphism. It includes `FieldAgent` objects to show reference behavior, `File` objects to illustrate equality comparison, and `Server` objects implementing the `ISystems` interface to demonstrate polymorphic method calls.  
+**Skills demonstrated:** Object-oriented programming, interfaces, polymorphism, object references vs. value types, equality comparison, arrays, console input/output.
 
 ---
 
