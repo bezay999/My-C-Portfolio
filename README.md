@@ -36,6 +36,11 @@ This repository showcases my practice projects in C#, demonstrating my understan
 **Description:** A console application that demonstrates polymorphism and downcasting in a corporate employee hierarchy. The program creates different types of employees — HR, Engineer, Intern, and Manager — all derived from the abstract `Employee` class. It showcases method overriding (`SubmitDailyReport()` and `Work()`), the use of the `as` operator for downcasting, type checking with `is`, and array iteration through polymorphic objects.  
 **Skills demonstrated:** Object-oriented programming, abstraction, polymorphism, method overriding, downcasting, type checking, virtual and abstract methods, arrays, console input/output.
 
+### 7. DatingProfile
+
+**Description:** A console application that simulates creating and viewing user dating profiles. The program allows storing personal information such as name, age, location, pronouns, favorite activity, and hobbies. It demonstrates how to work with classes, objects, properties, methods, and arrays, including updating object properties via methods and iterating over arrays.
+**Skills demonstrated:** Object-oriented programming, encapsulation, class constructors, methods, arrays, string manipulation, console input/output.
+
 ---
 
 ## How to Run
